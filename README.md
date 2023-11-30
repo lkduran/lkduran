@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lkduran
-- 🌱 I’m currently learning VR and ShapesXR
+- 🌱 I’m currently learning computer shit
 - 📫 How to reach me: lkduran@ucsc.edu
 - 😤 Pronouns: She/they
 
