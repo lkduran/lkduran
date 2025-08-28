@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lkduran
-- 🌱 I’m currently learning computer shit
-- 📫 How to reach me: lkduran@ucsc.edu
-- 😤 Pronouns: She/they
+
+- 📫 How to reach me: leahkatya7@gmail.com
+
 
 <!---
 lkduran/lkduran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
